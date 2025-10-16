@@ -3,13 +3,7 @@
 
 > Undergraduate CSE Engineer | AI & Deep Learning enthusiast | Frontend tinkerer
 
----
 
-<p align="center">
-  <img src="assets/hero.svg" alt="hero" width="780" />
-</p>
-
----
 
 ## 🔭 About me
 
@@ -20,45 +14,6 @@
 
 ---
 
-## ✨ Visual highlights
-
-### 1) Animated hero / banner
-
-```md
-<p align="center">
-  <img src="assets/hero.svg" alt="hero" width="780" />
-</p>
-```
-
-### 2) GitHub Stats cards
-
-```md
-<a href="https://github.com/preome">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=preome&show_icons=true&theme=tokyonight&count_private=true" />
-</a>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preome&layout=compact&theme=tokyonight" />
-```
-
-### 3) Badges
-
-```md
-![Stars](https://img.shields.io/github/stars/preome?style=flat-square)
-![Followers](https://img.shields.io/github/followers/preome?label=Follow&style=social)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)
-```
-
-### 4) Project gallery
-
-```md
-## 🚀 Featured Projects
-
-[![Lipreading Model](assets/projects/lipreading-thumb.png)](https://github.com/preome/lipreading-model)  [![Fire Service Dashboard](assets/projects/fire-dashboard-thumb.png)](https://github.com/preome/fire-dashboard)
-
-Lipreading model for Bangla word recognition | Fire service monitoring dashboard
-```
-
----
 
 ## 🧰 Skills
 
