@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Tasdida+Nawaz;Full-Stack+Developer;AI+%26+Deep+Learning+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Hi,+I'm+Tasdida+Nawaz;Full-Stack+Developer;Deep+Learning+Enthusiast" />
 </h1>
 
 <div align="center">
