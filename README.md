@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Tasdida Nawaz 👋</h1>
-<h3 align="center">Undergraduate CSE Engineer | AI & Deep Learning Enthusiast | Frontend Tinkerer</h3>
+<h3 align="center">Graduated CSE Engineer| Full-Stack Developer | AI & Deep Learning Enthusiast </h3>
 
 <div align="center">
 
@@ -15,9 +15,8 @@
 
 I'm a passionate Computer Science & Engineering student with a deep interest in building intelligent systems and elegant web solutions.
 
-- 🎓 **Currently:** Final-year undergraduate in CSE.
+- 🎓 **Currently:** Graduated in CSE.
 - 🧠 **Interests:** Deep Learning, Computer Vision, Full-stack Web Development, and System Design.
-- 🛠️ **Building:** Lip-reading models, fire-service dashboards (React + Spring Boot + PostgreSQL), and ML research prototypes.
 - 🌱 **Learning:** Advanced model compression & production model monitoring.
 - 📫 **Reach me at:** `tasdidanpreome@gmail.com`
 
@@ -63,12 +62,13 @@ I'm a passionate Computer Science & Engineering student with a deep interest in 
 
 ---
 
-### 🚀 Pinned Projects
+#### 🚀 Pinned Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Preome&repo=lipreading-model&theme=tokyonight&hide_border=true)](https://github.com/Preome/lipreading-model)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Preome&repo=fire-dashboard&theme=tokyonight&hide_border=true)](https://github.com/Preome/fire-dashboard)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Preome&repo=multi-task-unet&theme=tokyonight&hide_border=true)](https://github.com/Preome/multi-task-unet)
+</div>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Preome&repo=CSE470_Nirapod-all-in-fast-response-service-&theme=tokyonight&hide_border=true)](https://github.com/Preome/CSE470_Nirapod-all-in-fast-response-service-)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Preome&repo=CareerConnect&theme=tokyonight&hide_border=true)](https://github.com/Preome/CareerConnect)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Preome&repo=ReadVenture-old-&theme=tokyonight&hide_border=true)](https://github.com/Preome/ReadVenture-old-)
 ---
 
 ### 📈 Contribution Graph
