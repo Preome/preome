@@ -22,14 +22,13 @@
 
 ### 👩‍💻 About Me
 
-I'm a passionate Computer Science & Engineering student with a deep interest in building intelligent systems and elegant web solutions.
+I'm a passionate Computer Science & Engineering graduate with a deep interest in building intelligent systems and elegant web solutions.
 
 - 🎓 **Currently:** Graduated in CSE.
 - 🧠 **Interests:** Deep Learning, Computer Vision, Full-stack Web Development, and System Design.
 - 🌱 **Learning:** Advanced model compression & production model monitoring.
 - 📫 **Reach me at:** `tasdidanpreome@gmail.com`
 
----
 
 ### 🛠️ Tech Stack & Tools
 
