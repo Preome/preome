@@ -65,15 +65,21 @@ I'm a passionate Computer Science & Engineering student with a deep interest in 
 #### 🚀 Pinned Projects
 
 <div align="center">
+  <a href="https://github.com/Preome/Aponjon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preome&repo=Aponjon&theme=tokyonight&hide_border=true" width="45%" />
+  </a>
+  <a href="https://github.com/Preome/CareerConnect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preome&repo=CareerConnect&theme=tokyonight&hide_border=true" width="45%" />
+  </a>
+</div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Preome&repo=Aponjon&theme=tokyonight&hide_border=true)](https://github.com/Preome/Aponjon)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Preome&repo=CareerConnect&theme=tokyonight&hide_border=true)](https://github.com/Preome/CareerConnect)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Preome&repo=Brain-Tumor-Segmentation-and-Classification&theme=tokyonight&hide_border=true)](https://github.com/Preome/Brain-Tumor-Segmentation-and-Classification)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Preome&repo=CSE470_Nirapod-all-in-fast-response-service-&theme=tokyonight&hide_border=true)](https://github.com/Preome/CSE470_Nirapod-all-in-fast-response-service-)
-
+<div align="center">
+  <a href="https://github.com/Preome/Brain-Tumor-Segmentation-and-Classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preome&repo=Brain-Tumor-Segmentation-and-Classification&theme=tokyonight&hide_border=true" width="45%" />
+  </a>
+  <a href="https://github.com/Preome/CSE470_Nirapod-all-in-fast-response-service-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preome&repo=CSE470_Nirapod-all-in-fast-response-service-&theme=tokyonight&hide_border=true" width="45%" />
+  </a>
 </div>
 
 ### 📈 Contribution Graph
