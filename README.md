@@ -64,12 +64,17 @@ I'm a passionate Computer Science & Engineering student with a deep interest in 
 
 #### 🚀 Pinned Projects
 
-</div>
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Preome&repo=Aponjon&theme=tokyonight&hide_border=true)](https://github.com/Preome/Aponjon)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Preome&repo=CareerConnect&theme=tokyonight&hide_border=true)](https://github.com/Preome/CareerConnect)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Preome&repo=Brain-Tumor-Segmentation-and-Classification&theme=tokyonight&hide_border=true)](https://github.com/Preome/Brain-Tumor-Segmentation-and-Classification)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Preome&repo=CSE470_Nirapod-all-in-fast-response-service-&theme=tokyonight&hide_border=true)](https://github.com/Preome/CSE470_Nirapod-all-in-fast-response-service-)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Preome&repo=CareerConnect&theme=tokyonight&hide_border=true)](https://github.com/Preome/CareerConnect)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Preome&repo=ReadVenture-old-&theme=tokyonight&hide_border=true)](https://github.com/Preome/ReadVenture-old-)
----
+
+</div>
 
 ### 📈 Contribution Graph
 
